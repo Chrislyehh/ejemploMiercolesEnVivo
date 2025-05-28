@@ -8,5 +8,8 @@ otro otro párrafo
 
 * hola
 * el otro
-*     subitem
-*     SDDS 
+*     subite
+SDDS 
+$$x_{2}/^{4}$$
+
+![Imagen de Gatito](https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQd1kWKsODGmz1P44kiLTfpeIOkaemYITnaRVOZEn372xCyrpNoQQ_dMDAV4dWLpVTDFekNEtlkJaDnhlTzoQWdNg)
